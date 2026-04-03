@@ -1,1 +1,4 @@
-These samples are representative excerpts from the private production codebase and are included here to demonstrate component design, stateful hooks, and mobile UI patterns.
+## Sample notes
+
+The files in `samples/` are representative excerpts from the private production codebase.
+Some app-specific supporting modules (for example shared UI primitives, theme helpers, and internal utility files) are intentionally omitted for brevity.
